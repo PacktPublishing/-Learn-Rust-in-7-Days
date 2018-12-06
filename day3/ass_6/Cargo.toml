@@ -1,0 +1,6 @@
+[package]
+name = "ass_6"
+version = "0.1.0"
+authors = ["storyfeet <thebeaky@psmail.net>"]
+
+[dependencies]

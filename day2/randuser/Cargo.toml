@@ -1,0 +1,7 @@
+[package]
+name = "randuser"
+version = "0.1.0"
+authors = ["storyfeet <thebeaky@psmail.net>"]
+
+[dependencies]
+rand = "0.5.5"

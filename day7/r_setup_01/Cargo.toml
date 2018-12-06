@@ -1,0 +1,9 @@
+[package]
+name = "r_setup"
+version = "0.1.0"
+authors = ["storyfeet <thebeaky@psmail.net>"]
+edition = "2018"
+
+[dependencies]
+rocket = "0.3.17"
+rocket_codegen = "0.3.17"

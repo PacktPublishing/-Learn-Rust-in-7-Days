@@ -1,0 +1,6 @@
+[package]
+name = "from_8"
+version = "0.1.0"
+authors = ["storyfeet <thebeaky@psmail.net>"]
+
+[dependencies]

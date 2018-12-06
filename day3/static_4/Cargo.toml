@@ -1,0 +1,6 @@
+[package]
+name = "static_4"
+version = "0.1.0"
+authors = ["storyfeet <thebeaky@psmail.net>"]
+
+[dependencies]

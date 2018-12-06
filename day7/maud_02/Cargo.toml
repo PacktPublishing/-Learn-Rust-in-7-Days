@@ -1,0 +1,8 @@
+[package]
+name = "maud_02"
+version = "0.1.0"
+authors = ["storyfeet <thebeaky@psmail.net>"]
+edition = "2018"
+
+[dependencies]
+maud = "0.19.0"

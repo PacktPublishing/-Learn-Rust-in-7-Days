@@ -1,0 +1,10 @@
+[package]
+name = "money_typesafe"
+version = "0.1.0"
+authors = ["storyfeet <thebeaky@psmail.net>"]
+license = "MIT"
+description = "A library for parsing money"
+keywords = ["Money","Parse"]
+
+
+[dependencies]

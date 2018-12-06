@@ -1,0 +1,11 @@
+[[package]]
+name = "ass_5"
+version = "0.1.0"
+dependencies = [
+ "money_typesafe 0.1.0",
+]
+
+[[package]]
+name = "money_typesafe"
+version = "0.1.0"
+
