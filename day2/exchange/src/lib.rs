@@ -7,11 +7,11 @@ pub struct GBP (i32);
 pub struct CAD (i32);
 
 pub trait ToUSDv<F>{
-    fn to_uv(&self,F)->f32;
+    fn to_uv(&self,f:F)->f32;
 }
 
 pub trait FromUSDv<F>{
-    fn from_uv(&self,f32)->F;
+    fn from_uv(&self,f:f32)->F;
 }
 
 pub struct Ex {
@@ -33,7 +33,7 @@ impl FromUSDv<CAD> for Ex{
 
 
 pub trait Exchange<F,T>{
-    fn convert(&self, F)->T;
+    fn convert(&self, f:F)->T;
 }
 
 impl<E,F,T> Exchange<F,T> for E 
